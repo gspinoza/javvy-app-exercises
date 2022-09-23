@@ -40,8 +40,8 @@ public class IfElseStatements {
         // nested if statements
         int x = -3;
         if (x < 5) {
-            if (x>-5) {
-                System.out.println("X is less than 5 and less than or equal to 5");
+            if (x > -5) { // -5.....x...x.....5
+                System.out.println("x is less than 5 and greater than -5");
             }
         }
     }
