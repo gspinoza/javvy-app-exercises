@@ -32,7 +32,7 @@ public class ArrayPlanets {
 		    System.out.println("you can travel to Planet " + planets[6]);
         } else if (level == 8) {
 		    System.out.println("you can travel to Planet " + planets[7]);
-        }		
+        }
 	}
 
 }
