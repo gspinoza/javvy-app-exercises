@@ -1,6 +1,6 @@
 # Javvy-App-Exercises
 
-All java exercises from learning java app [Javvy](https://www.producthunt.com/products/javvy)
+My solutions to all exercises from [Javvy](https://www.producthunt.com/products/javvy) (java learning app)
 1. [Variables](src/main/java/gspinoza/Variables.java)
 2. [Arithmetic & Assignment Operators](src/main/java/gspinoza/ArithmeticAndAssignmentOperators.java)
 3. [Boolean and Logical Operators](src/main/java/gspinoza/BooleanAndLogicalOperators.java)
