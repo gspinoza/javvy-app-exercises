@@ -12,7 +12,7 @@ My solutions to all exercises from [Javvy](https://www.producthunt.com/products/
     1. [Space Adventure 6](src/main/java/gspinoza/SpaceAdventure6.java)
 7. [ArrayList](src/main/java/gspinoza/JavaArrayList.java)
     1. [Space Adventure 7](src/main/java/gspinoza/SpaceAdventure7.java)
-8. [HashMaps](src/main/java/gspinoza/HashMaps.java)
+8. [HashMaps](src/main/java/gspinoza/JavaHashMaps.java)
     1. [Space Adventure 8](src/main/java/gspinoza/SpaceAdventure8.java)
 9. [Loops](src/main/java/gspinoza/Loops.java)
     1. [Space Adventure 9](src/main/java/gspinoza/SpaceAdventure9.java)
