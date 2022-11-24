@@ -109,7 +109,7 @@ class Pet {
     }
 
     // INHERITANCE - Here you decide if the subclass will have have access
-    // (inherit) to this method by setting the medofiers public or private.
+    // (inherit) to this method by setting the modifiers public or private.
     // When modifiers are set as private it's ENCAPSULATION: only the current class will have access to it.
     
     // public method
