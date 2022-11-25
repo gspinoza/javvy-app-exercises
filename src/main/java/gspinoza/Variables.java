@@ -6,7 +6,7 @@ public class Variables {
     public static void main(String[] args) {
         // declaring and initializing variables
         String bird = "Chickadee";
-        String habitat = "North Amercia";
+        String habitat = "North America";
         int numberOfSpecies = 7; 
         double averageSize = 3.3; // inches
         char initialLetter = 'C';
